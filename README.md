@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=black)]() [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=black)]() [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
 <br>
 
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)]() [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=black)]() [![C#](https://img.shields.io/badge/C#-512BD4?style=flat-square&logo=csharp&logoColor=black)]() [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=black)]()
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)]() [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=black)]() [![C#](https://img.shields.io/badge/C#-00599C?style=flat-square&logo=csharp&logoColor=black)]() [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=black)]()
 <br>
 
 [![MySQL](https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=mysql&logoColor=black)]()
 <br>
 
 
-### 📌 t o d a y
+## 📌 t o d a y
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgowjr1216&count_bg=%23EC1818&title_bg=%23080808&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br><br><br><br>
