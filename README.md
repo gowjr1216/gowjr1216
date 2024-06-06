@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## 🌻 t e c h 🌻
 
 
-[![React,JSX](https://img.shields.io/badge/React%20/%20JSX-61DAFB?style=flat-square&logo=React&logoColor=black)]() [![MUI](https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=mui&logoColor=black)]() [![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=black)]()
+[![React,JSX](https://img.shields.io/badge/React%20/%20JSX-61DAFB?style=flat-square&logo=React&logoColor=black)]() [![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=black)]() [![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=black)]()
 <br>
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=black)]() [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=black)]() [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
