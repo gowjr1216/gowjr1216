@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div aligh="center">
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Profile 🍧%20render&fontSize=90)
+
+<div align=center>
 🌻 t e c h 🌻
+
 [![React](https://img.shields.io/badge/React/JSX-#61DAFB?style=flat-square&logo=React&logoColor=black)]
 [![Node.js](https://img.shields.io/badge/Node.js-#5FA04E?style=flat-square&logo=Node.js&logoColor=black)]
 
