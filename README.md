@@ -13,23 +13,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Profile%20🎈&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=GitHub%20Profile%20🎈&fontSize=70)
 
 <div align=center>
   
 ## 🌻 t e c h 🌻
 
 
-[![React,JSX](https://img.shields.io/badge/React%20/%20JSX-61DAFB?style=flat-square&logo=React&logoColor=black)] [![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=black)]
+[![React,JSX](https://img.shields.io/badge/React%20/%20JSX-61DAFB?style=flat-square&logo=React&logoColor=black)]() [![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=black)]()
 <br>
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black)] [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=black)] [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black)]() [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=black)]() [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]()
 <br>
 
-[![C](https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=C&logoColor=black)] [![C++](https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=C++&logoColor=black)] [![C#](https://img.shields.io/badge/C#-#512BD4?style=flat-square&logo=C#&logoColor=black)] [![Python](https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=black)]
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)]() [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=black)]() [![C#](https://img.shields.io/badge/C#-512BD4?style=flat-square&logo=C#&logoColor=black)]() [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)]()
 <br>
 
-[![MySQL](https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=MySQL&logoColor=black)]
+[![MySQL](https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=MySQL&logoColor=black)]()
 <br>
 
 ### 📌 t o d a y
