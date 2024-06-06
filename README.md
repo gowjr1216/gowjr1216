@@ -8,7 +8,7 @@
 
 <h1 align="Left">Hi 👋, I'm Moon Sung Hyeon</h1>
 <h3 align="Left">I am a student who wants to code better than yesterday</h3>
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgowjr1216&count_bg=%23EC1818&title_bg=%23080808&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgowjr1216&count_bg=%23EC1818&title_bg=%23080808&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 </br>
 
 - 🌱 I’m currently learning **front-end development, focusing on technologies like React, JavaScript, HTML, and CSS**
