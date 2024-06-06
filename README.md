@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div aligh=center>
+<div aligh="center">
 🌻 t e c h 🌻
 [![React](https://img.shields.io/badge/React/JSX-#61DAFB?style=flat-square&logo=React&logoColor=black)]
 [![Node.js](https://img.shields.io/badge/Node.js-#5FA04E?style=flat-square&logo=Node.js&logoColor=black)]
@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 
 📌 t o d a y
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgowjr1216&count_bg=%23EC1818&title_bg=%23080808&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
