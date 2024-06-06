@@ -11,8 +11,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgowjr1216&count_bg=%23F4224B&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</br>
-
 - 🌱 I’m currently learning **front-end development, focusing on technologies like React, JavaScript, HTML, and CSS**
 
 - 📫 How to reach me **gowjr1216@naver.com**
